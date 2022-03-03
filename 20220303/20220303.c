@@ -195,8 +195,3 @@ int main(void)
 	return 0;
 }
 */
-int main(void)
-{
-	printf("장윤석 \n");
-	return 0;
-}

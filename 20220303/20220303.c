@@ -1,5 +1,6 @@
 ﻿#include <stdio.h>
-#include <st>
+#include <stdlib.h> //난수 생성
+
 //도전 3
 int main(void)
 {
